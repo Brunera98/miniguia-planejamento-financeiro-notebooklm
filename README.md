@@ -75,12 +75,12 @@ A regra 50-30-20 é uma referência de organização:
 Duas ferramentas podem ajudar na execução das metas:
 Planejamento Reverso: começa pelo objetivo final e define, de trás para frente, as etapas necessárias até chegar às ações atuais.
 Modelo GROW:
-G — Goal: definir a meta.
-R — Reality: analisar a realidade atual.
-O — Options: identificar opções e obstáculos.
-W — Will: definir o compromisso com a execução.
+**G** - Goal: definir a meta.
+**R** - Reality: analisar a realidade atual.
+**O** - Options: identificar opções e obstáculos.
+**W** - Will: definir o compromisso com a execução.
 
-6. Investimentos de Acordo com os Objetivos
+7. Investimentos de Acordo com os Objetivos
 A escolha dos investimentos deve considerar principalmente prazo, risco, rentabilidade e liquidez.Ideia central: quanto mais próxima estiver a necessidade do dinheiro, maior tende a ser a importância da liquidez e preservação do capital. Para objetivos de longo prazo, pode haver maior espaço para investimentos sujeitos a oscilações, desde que sejam compatíveis com o perfil e os objetivos do investidor.
 Síntese
 O planejamento financeiro pessoal consiste em diagnosticar a situação atual, organizar o orçamento, definir metas claras, estabelecer prazos, escolher estratégias adequadas e acompanhar os resultados. A combinação desses elementos ajuda a transformar objetivos financeiros em planos concretos e executáveis.
@@ -95,12 +95,12 @@ Submetas (Metinhas):  Fragmentação de uma meta grande em partes menores (mensa
 
 ### Conjunto de Prompts Reutilizáveis
 Os prompts abaixo podem ser utilizados em ferramentas de IA para apoiar revisões e aprofundamentos sobre o tema:
-1. Prompt para Diagnóstico:  "Com base na regra 50-30-20 e no conceito de despesas fixas e variáveis, analise um orçamento onde a renda é VALOR e os gastos são LISTAR GASTOS. Identifique gargalos e sugira ajustes para torná-lo superavitário."
+1. **Prompt para Diagnóstico:**  "Com base na regra 50-30-20 e no conceito de despesas fixas e variáveis, analise um orçamento onde a renda é VALOR e os gastos são LISTAR GASTOS. Identifique gargalos e sugira ajustes para torná-lo superavitário."
 
-2. Prompt para Criação de Metas:  "Transforme o desejo 'comprar uma casa' em uma meta SMART e aplique a metodologia de Planejamento Reverso para definir o que deve ser feito anualmente, mensalmente e semanalmente em um horizonte de 10 anos."
+2. **Prompt para Criação de Metas:**  "Transforme o desejo 'comprar uma casa' em uma meta SMART e aplique a metodologia de Planejamento Reverso para definir o que deve ser feito anualmente, mensalmente e semanalmente em um horizonte de 10 anos."
 
-3. Prompt para Simulação de Escolha:  "Explique o custo de oportunidade de investir R$ 1.000,00 em uma viagem de curto prazo versus aplicá-lo em um título de Tesouro IPCA+ por 5 anos, considerando a inflação e o conceito de troca intertemporal."
+3. **Prompt para Simulação de Escolha:**  "Explique o custo de oportunidade de investir R$ 1.000,00 em uma viagem de curto prazo versus aplicá-lo em um título de Tesouro IPCA+ por 5 anos, considerando a inflação e o conceito de troca intertemporal."
 
-4. Prompt para Metodologia GROW:  "Atue como um coach financeiro e utilize o modelo GROW para me ajudar a explorar opções para a meta de NOME DA META, considerando os obstáculos de LISTAR OBSTÁCULOS."
+4. **Prompt para Metodologia GROW:**  "Atue como um coach financeiro e utilize o modelo GROW para me ajudar a explorar opções para a meta de NOME DA META, considerando os obstáculos de LISTAR OBSTÁCULOS."
 
-5. Prompt para Alocação:  "Quais classes de ativos são mais recomendadas para uma meta de médio prazo (3 anos) no cenário econômico atual de TAXA SELIC e INFLAÇÃO, visando proteger o poder de compra?"
+5. **Prompt para Alocação:**  "Quais classes de ativos são mais recomendadas para uma meta de médio prazo (3 anos) no cenário econômico atual de TAXA SELIC e INFLAÇÃO, visando proteger o poder de compra?"

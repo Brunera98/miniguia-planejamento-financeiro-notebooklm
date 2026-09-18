@@ -66,12 +66,13 @@ Etapas:
 * Registrar todos os gastos.
 * Categorizar as despesas.
 * Avaliar os resultados e ajustar hábitos.
+
 A regra 50-30-20 é uma referência de organização:
 50%: necessidades essenciais.
 30%: estilo de vida e lazer.
 20%: investimentos e/ou pagamento de dívidas.
 
-5. Planejamento e Execução
+6. Planejamento e Execução
 Duas ferramentas podem ajudar na execução das metas:
 Planejamento Reverso: começa pelo objetivo final e define, de trás para frente, as etapas necessárias até chegar às ações atuais.
 

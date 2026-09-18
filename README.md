@@ -21,7 +21,7 @@ Para treinar o NotebookLM, selecionei as seguintes fontes confiáveis:
 2. [Como definir metas financeiras de curto, médio e longo prazo - Expert XP](https://conteudos.xpi.com.br/aprenda-a-investir/relatorios/metas-financeiras/)
 3. [Consumo Consciente](https://www.gov.br/susep/pt-br/assuntos/meu-futuro-seguro/educacao-financeira/consumo-consciente-1?utm_source=chatgpt.com)
 4. [COMO EU TIRO AS METAS DO PAPEL! Técnica simples pra juntar mais dinheiro do que nunca](https://www.youtube.com/watch?v=eMQZRHoIgtQ)
-5. [O Alinhamento Estratégico Multitemporal: Teoria, Modelos de Gestão e Alocação Prática de Metas de Curto, Médio e Longo Prazo - Relatório do Deep Research] 
+5. O Alinhamento Estratégico Multitemporal: Teoria, Modelos de Gestão e Alocação Prática de Metas de Curto, Médio e Longo Prazo - Relatório do Deep Research
 
 
 ## ⚙️ Engenharia de Prompts e "Cicatrizes"

@@ -1,7 +1,7 @@
 # Guia de Estudos: Bootcamp Bradesco — GenAI, Dados & Cyber
 Este repositório contém o projeto prático desenvolvido para o desafio da DIO explorando o uso do NotebookLM da Google como ferramenta de aprendizado ativo e organização do conhecimento. [DIO.me](https://dio.me).
 
-## miniguia-planejamento-financeiro-notebooklm
+## Miniguia de Planejamento Financeiro
 Miniguia de Planejamento Financeiro Pessoal desenvolvido com apoio do NotebookLM como ferramenta de aprendizagem ativa.
 
 

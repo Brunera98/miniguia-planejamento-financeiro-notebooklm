@@ -87,12 +87,12 @@ Síntese
 O planejamento financeiro pessoal consiste em diagnosticar a situação atual, organizar o orçamento, definir metas claras, estabelecer prazos, escolher estratégias adequadas e acompanhar os resultados. A combinação desses elementos ajuda a transformar objetivos financeiros em planos concretos e executáveis.
 
 ### Glossário de Conceitos Chave
-Custo de Oportunidade:  O benefício que se deixa de obter ao escolher uma alternativa em vez de outra (o preço da renúncia).
-Troca Intertemporal:  A decisão entre consumir no presente ou adiar o consumo para o futuro em troca de rendimentos (juros).
-Reserva de Emergência:  Montante equivalente a 3 a 12 meses do custo de vida, mantido em ativos de alta liquidez para imprevistos.
-Metas Tangíveis:  Objetivos que possuem valor, prazo, especificidade e relevância definidos.
-Gastos Invisíveis:  Pequenas despesas diárias frequentemente ignoradas, mas que somadas impactam severamente o orçamento.
-Submetas (Metinhas):  Fragmentação de uma meta grande em partes menores (mensais ou anuais) para facilitar a execução e manter a motivação.
+* Custo de Oportunidade:  O benefício que se deixa de obter ao escolher uma alternativa em vez de outra (o preço da renúncia).
+* Troca Intertemporal:  A decisão entre consumir no presente ou adiar o consumo para o futuro em troca de rendimentos (juros).
+* Reserva de Emergência:  Montante equivalente a 3 a 12 meses do custo de vida, mantido em ativos de alta liquidez para imprevistos.
+* Metas Tangíveis:  Objetivos que possuem valor, prazo, especificidade e relevância definidos.
+* Gastos Invisíveis:  Pequenas despesas diárias frequentemente ignoradas, mas que somadas impactam severamente o orçamento.
+* Submetas (Metinhas):  Fragmentação de uma meta grande em partes menores (mensais ou anuais) para facilitar a execução e manter a motivação.
 
 ### Conjunto de Prompts Reutilizáveis
 Os prompts abaixo podem ser utilizados em ferramentas de IA para apoiar revisões e aprofundamentos sobre o tema:

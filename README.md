@@ -1,5 +1,4 @@
-# Guia de Estudos: Automação e Gestão de Infraestrutura de TI 
-## Bootcamp Bradesco — GenAI, Dados & Cyber
+# Guia de Estudos: Bootcamp Bradesco — GenAI, Dados & Cyber
 Este repositório contém o projeto prático desenvolvido para o desafio da DIO explorando o uso do NotebookLM da Google como ferramenta de aprendizado ativo e organização do conhecimento. [DIO.me](https://dio.me).
 
 ## miniguia-planejamento-financeiro-notebooklm

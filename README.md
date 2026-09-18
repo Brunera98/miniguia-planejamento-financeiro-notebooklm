@@ -74,11 +74,12 @@ A regra 50-30-20 é uma referência de organização:
 5. Planejamento e Execução
 Duas ferramentas podem ajudar na execução das metas:
 Planejamento Reverso: começa pelo objetivo final e define, de trás para frente, as etapas necessárias até chegar às ações atuais.
+
 Modelo GROW:
-**G** - Goal: definir a meta.
-**R** - Reality: analisar a realidade atual.
-**O** - Options: identificar opções e obstáculos.
-**W** - Will: definir o compromisso com a execução.
+**G** - Goal: definir a meta. 
+**R** - Reality: analisar a realidade atual. 
+**O** - Options: identificar opções e obstáculos. 
+**W** - Will: definir o compromisso com a execução. 
 
 7. Investimentos de Acordo com os Objetivos
 A escolha dos investimentos deve considerar principalmente prazo, risco, rentabilidade e liquidez.Ideia central: quanto mais próxima estiver a necessidade do dinheiro, maior tende a ser a importância da liquidez e preservação do capital. Para objetivos de longo prazo, pode haver maior espaço para investimentos sujeitos a oscilações, desde que sejam compatíveis com o perfil e os objetivos do investidor.

@@ -17,10 +17,10 @@ Proteção do Patrimônio:  Mitigar riscos e garantir segurança multitemporal.
 
 ## 📚 Curadoria de Fontes
 Para treinar o NotebookLM, selecionei as seguintes fontes confiáveis:
-1. [Caderno de Educação Financeira](https://www.bcb.gov.br/cidadaniafinanceira/cidadania_biblioteca?utm_source=chatgpt.com): Base para entender a hierarquia e aplicação de políticas de grupo.
-2. [Como definir metas financeiras de curto, médio e longo prazo - Expert XP](https://conteudos.xpi.com.br/aprenda-a-investir/relatorios/metas-financeiras/):
-3. [Consumo Consciente](https://www.gov.br/susep/pt-br/assuntos/meu-futuro-seguro/educacao-financeira/consumo-consciente-1?utm_source=chatgpt.com):
-4. [COMO EU TIRO AS METAS DO PAPEL! Técnica simples pra juntar mais dinheiro do que nunca](https://www.youtube.com/watch?v=eMQZRHoIgtQ):
+1. [Caderno de Educação Financeira](https://www.bcb.gov.br/cidadaniafinanceira/cidadania_biblioteca?utm_source=chatgpt.com)
+2. [Como definir metas financeiras de curto, médio e longo prazo - Expert XP](https://conteudos.xpi.com.br/aprenda-a-investir/relatorios/metas-financeiras/)
+3. [Consumo Consciente](https://www.gov.br/susep/pt-br/assuntos/meu-futuro-seguro/educacao-financeira/consumo-consciente-1?utm_source=chatgpt.com)
+4. [COMO EU TIRO AS METAS DO PAPEL! Técnica simples pra juntar mais dinheiro do que nunca](https://www.youtube.com/watch?v=eMQZRHoIgtQ)
 5. [O Alinhamento Estratégico Multitemporal: Teoria, Modelos de Gestão e Alocação Prática de Metas de Curto, Médio e Longo Prazo - Relatório do Deep Research] 
 
 
